@@ -1,2 +1,2 @@
 ## Locator
-#### Here posible locator are listed 
+#### Here posible locators are listed 
